@@ -19,8 +19,7 @@ Geleneksel intihal tespit yazılımları, genellikle birebir kopyalanmış (copy
 - **Doküman İşleme:** PyPDF2, python-docx
 
 ## Görseller
-<img width="498" height="251" alt="image" src="https://github.com/user-attachments/assets/9c735c65-cf8a-425f-97e8-584353cf6a1f" />
-<img width="482" height="243" alt="image" src="https://github.com/user-attachments/assets/9d9b2a90-8a05-432b-a7d8-518522c87c89" />
+<img width="750" height="379" alt="image" src="https://github.com/user-attachments/assets/44605a12-1fc6-40fe-84fd-c866168aba95" />
 <img width="750" height="380" alt="image" src="https://github.com/user-attachments/assets/86ab5ba2-e41c-41cc-b59a-955fa1e19662" />
 <img width="749" height="373" alt="image" src="https://github.com/user-attachments/assets/1cd7ee7d-a44f-4c20-ab17-cf4589c6343d" />
 
